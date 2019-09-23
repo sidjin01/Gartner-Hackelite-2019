@@ -1,0 +1,7 @@
+pandas
+category_encoders
+xgboost
+matplotlib
+scikit-learn
+hyperopt
+jupyter
